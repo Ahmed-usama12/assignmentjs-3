@@ -1,0 +1,43 @@
+body {
+    font-family: 'Forum', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'PT Sans Caption', sans-serif;
+    font-family: 'Righteous', cursive;
+    background-color: #6ba1ff;
+}
+
+.myTitle {
+    font-family: 'Forum', cursive;
+    font-family: 'Pacifico', cursive;
+    position: relative;
+}
+
+
+
+.myTitle h1:hover::before {
+    height: 50%;
+}
+
+
+
+
+.bookmark-body h2 {
+    font-family: 'Forum', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Righteous', cursive;
+
+    color: #2463cf;
+
+    /* background-image: linear-gradient(to right, #3ca55c, #b5ac49); */
+}
+
+.myBtn1 {
+    background-color: #2463cf;
+    ;
+    padding: 8px 30px;
+}
+
+.myBtn1:hover {
+    background-color: #2463cf;
+    ;
+}
